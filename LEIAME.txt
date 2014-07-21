@@ -1,0 +1,27 @@
+****** 
+****** Benvindo ao Ai2LiveComplete! ****** 
+****** 
+
+O Ai2LiveComplete! é originado do MIT AApp Inventor 2
+e foi alterado para executar, sozinho, nas seguintes plataformas:
+
+   Windows   
+   Linux
+   Mac
+
+PARA INFORMAÇÃO UP-TO-DATE, VEJA OS LINKS ABAIXO POR FAVOR:
+https://sourceforge.net/projects/ailivecomplete
+https://sourceforge.net/p/ailivecomplete/wiki/Home/
+http://Amerkashi.Wordpress.com
+
+
+****** NOTAS  ******
+
+Para conectar com o device via WiFi, você precisa instalar o
+aplicativo fornecido anexo .apk no folder root de nosso device
+Você precisará desinstalar primeiro o Companion fornecido pelo MIT
+
+Questões? Contact M. Hossein Amerkashi at kkashi01@gmail.com
+Tradução? Contate elo.appinventor@gmail.com
+		
+
