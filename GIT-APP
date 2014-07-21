@@ -1,6 +1,6 @@
 #!/bin/bash
  
-###########verifica se o usuario é root##################
+##########verifica se o usuario é root##################
 #se for root retorna 0
 #se for usuario normal retorna 1000
 userid=$(id -u)
