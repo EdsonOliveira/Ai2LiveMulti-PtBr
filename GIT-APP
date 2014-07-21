@@ -58,7 +58,7 @@ function  git_ConfirmaAlteracoes () {
 ##################################### Envia o projeto
 function  git_EnviaAlteracoes () {
  cd $DirOrigem
- zenity --info --text "Autenticando e Enviando" --title "GIT-APP" 
+ zenity --info --text "Autenticando e Enviando" --title "GIT-APP"  --timeout=3
  git remote set-url origin $appSSH
  git push origin master
  zenity --info --text "Arquivos enviados ao projeto" --title "GIT-APP"
